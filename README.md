@@ -10,5 +10,6 @@ This application consists of APIs which perform all the fundamental CRUD operati
 
 ## Data Collection and Labeling
 
-- **Collected over 100 images per class (apparel, chairs, footwear) using a phone camera**
+- **Collected over 100 images per class (flowers, trees, pebbles) using a phone camera**
 - **Labeled images and assigned category labels - 0 for apparel, 1 for chairs, 2 for footwear**
+- **Developed a Python script to fetch and preprocess images belonging to different categories from local machine and convert to standardized format for prepreocessing and other machine learning tasks** 
